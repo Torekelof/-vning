@@ -1,0 +1,16 @@
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\bin\Debug\net5.0\Övning.exe
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\bin\Debug\net5.0\Övning.deps.json
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\bin\Debug\net5.0\Övning.runtimeconfig.json
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\bin\Debug\net5.0\Övning.runtimeconfig.dev.json
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\bin\Debug\net5.0\Övning.dll
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\bin\Debug\net5.0\ref\Övning.dll
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\bin\Debug\net5.0\Övning.pdb
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\obj\Debug\net5.0\Övning.csproj.AssemblyReference.cache
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\obj\Debug\net5.0\Övning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\obj\Debug\net5.0\Övning.AssemblyInfoInputs.cache
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\obj\Debug\net5.0\Övning.AssemblyInfo.cs
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\obj\Debug\net5.0\Övning.csproj.CoreCompileInputs.cache
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\obj\Debug\net5.0\Övning.dll
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\obj\Debug\net5.0\ref\Övning.dll
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\obj\Debug\net5.0\Övning.pdb
+C:\Users\ekelof.tor\Documents\programering\Kaptiel2\Övning\obj\Debug\net5.0\Övning.genruntimeconfig.cache
